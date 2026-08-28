@@ -48,7 +48,7 @@ A continuación se presenta una tabla que registra las evaluaciones que se han p
 | 24-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 | 24-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |     |     |
 | 25-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |     |     |
-| 25-2 |  X   |  X   |  X   |  X   |  X   |      |  X   |  X   |  X   |       |     |  X  |
+| 25-2 |  X   |  X   |  X   |  X   |  X   |      |  X   |  X   |  X   |   X   |     |    |
 ## Contribuciones
 
 Si encuentras alguna discrepancia o tienes sugerencias para mejorar esta guía, no dudes en abrir un issue o realizar un pull request. ¡Toda ayuda es bienvenida!
