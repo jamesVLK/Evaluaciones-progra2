@@ -1,0 +1,39 @@
+C,7/04/2025,11,101,Luna,C,Labrador,1222,20
+V,8/04/2026,10,101,Luna,C,Labrador,1,12
+V,3/10/2025,12,103,Rocky,C,Bulldog,2,6
+C,8/04/2026,10,103,Rocky,C,Bulldog,5689,20
+O,9/04/2026,11,105,Toby,C,Beagle,100,0,1
+V,9/04/2026,13,106,Simba,F,Comun,3,3
+C,11/04/2026,13,107,Max,C,PastorAleman,2345,20
+C,8/04/2026,10,104,Nala,F,Persa,5689,15
+C,20/12/2025,13,109,Dali,F,Americano,1222,15
+V,14/04/2026,9,112,Goku,C,GoldenRetriever,1,12
+O,25/04/2026,10,110,LuisXV,F,Siberiano,150,1,2
+C,10/04/2026,9,102,Fenix,A,Ninfa,8921,60
+C,7/04/2025,9,108,Axl Rose,A,Canario,8921,60
+V,8/04/2026,13,111,Slash,A,Canario,3,12
+V,10/04/2026,13,120,Jon Bon Jovi,A,Canario,2,12
+C,20/12/2025,10,125,Debbie Harry,A,Canario,3572,60
+C,3/11/2025,11,126,Pimpona,A,Agapornis,9331,60
+O,12/03/2026,13,109,Dali,F,Americano,120,0,1
+C,17/01/2026,15,108,Axl Rose,A,Canario,3572,60
+C,17/04/2025,14,101,Luna,C,Labrador,5689,20
+C,17/04/2025,9,108,Axl Rose,A,Canario,3572,60
+V,18/04/2026,13,111,Slash,A,Canario,1,12
+V,14/04/2026,12,120,Jon Bon Jovi,A,Canario,1,12
+C,22/12/2025,9,125,Debbie Harry,A,Canario,9331,60
+C,12/11/2025,9,126,Pimpona,A,Agapornis,9331,60
+V,18/04/2026,10,101,Luna,C,Labrador,3,1
+V,13/10/2025,12,103,Rocky,C,Bulldog,1,1
+C,2/04/2026,11,103,Rocky,C,Bulldog,1029,20
+O,19/04/2026,11,105,Toby,C,Beagle,200,1,2
+V,19/04/2026,12,106,Simba,F,Comun,3,12
+C,11/02/2026,15,107,Max,C,PastorAleman,4445,20
+C,18/04/2026,14,104,Nala,F,Persa,6666,20
+C,20/12/2025,11,109,Dali,F,Americano,9999,20
+V,14/05/2026,13,112,Goku,C,GoldenRetriever,2,12
+V,15/04/2026,12,110,LuisXV,F,Siberiano,3,12
+C,20/04/2026,10,102,Fenix,A,Ninfa,3572,60
+C,21/03/2026,9,102,Fenix,A,Ninfa,3572,60
+C,21/10/2025,15,126,Pimpona,A,Agapornis,8921,60
+C,20/02/2026,16,109,Dali,F,Americano,9999,15
