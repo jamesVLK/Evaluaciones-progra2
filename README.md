@@ -49,7 +49,7 @@ A continuación se presenta una tabla que registra las evaluaciones que se han p
 | 24-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |     |     |
 | 25-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |     |     |
 | 25-2 |  X   |  X   |  X   |  X   |  X   |      |  X   |  X   |  X   |   X   |     |     |
-| 26-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |      |  X   |       |     |     |
+| 26-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |      |      |       |     |     |
 
 ## Contribuciones
 
