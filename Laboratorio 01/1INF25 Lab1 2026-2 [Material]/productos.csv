@@ -1,0 +1,600 @@
+1,Avena Pacifico Tipo 17,UNIDAD
+2,Bebida Isotonica Costa Tipo 24,UNIDAD
+3,Jabon Liquido Amazonia Tipo 22,KG
+4,Alcohol Gel Valle Tipo 05,LITRO
+5,Cereal Pacifico Tipo 01,UNIDAD
+6,Salsa de Tomate Amazonia Tipo 11,UNIDAD
+7,Cuaderno Kantu Tipo 18,UNIDAD
+8,Arena Gato Amazonia Tipo 11,KG
+9,Azucar Sierra Tipo 05,UNIDAD
+10,Agua Inti Tipo 13,LITRO
+11,Lejia Norte Tipo 15,UNIDAD
+12,Papel Higienico Norte Tipo 12,LITRO
+13,Barra Energetica Costa Tipo 18,UNIDAD
+14,Maiz Dulce Andes Tipo 13,UNIDAD
+15,Folder Misti Tipo 09,UNIDAD
+16,Arena Gato Costa Tipo 03,UNIDAD
+17,Sal Central Tipo 03,KG
+18,Gaseosa Sol Tipo 07,UNIDAD
+19,Suavizante Central Tipo 11,KG
+20,Alcohol Gel Kantu Tipo 13,UNIDAD
+21,Cereal Inti Tipo 05,KG
+22,Durazno Central Tipo 01,UNIDAD
+23,Marcador Andes Tipo 23,UNIDAD
+24,Alimento Perro Sol Tipo 04,LITRO
+25,Fideo Kantu Tipo 04,KG
+26,Bebida Isotonica Pacifico Tipo 20,UNIDAD
+27,Suavizante Costa Tipo 14,KG
+28,Pasta Dental Sol Tipo 07,UNIDAD
+29,Papas Amazonia Tipo 05,UNIDAD
+30,Durazno Sierra Tipo 08,UNIDAD
+31,Folder Kantu Tipo 04,UNIDAD
+32,Alimento Perro Valle Tipo 21,UNIDAD
+33,Quinua Valle Tipo 12,UNIDAD
+34,Agua Central Tipo 04,LITRO
+35,Desinfectante Central Tipo 06,LITRO
+36,Jabon Norte Tipo 24,LITRO
+37,Chocolate Kantu Tipo 18,KG
+38,Atun Costa Tipo 16,UNIDAD
+39,Marcador Inti Tipo 24,UNIDAD
+40,Alimento Gato Central Tipo 13,UNIDAD
+41,Lenteja Amazonia Tipo 11,KG
+42,Bebida Isotonica Kantu Tipo 04,LITRO
+43,Suavizante Sol Tipo 06,UNIDAD
+44,Papel Higienico Pacifico Tipo 02,UNIDAD
+45,Barra Energetica Sol Tipo 11,UNIDAD
+46,Sardina Amazonia Tipo 14,UNIDAD
+47,Lapicero Valle Tipo 14,UNIDAD
+48,Alimento Gato Pacifico Tipo 10,UNIDAD
+49,Arroz Costa Tipo 21,UNIDAD
+50,Jugo Kantu Tipo 13,UNIDAD
+51,Suavizante Valle Tipo 18,KG
+52,Pasta Dental Sol Tipo 21,LITRO
+53,Caramelo Kantu Tipo 11,KG
+54,Maiz Dulce Amazonia Tipo 24,UNIDAD
+55,Lapicero Sierra Tipo 21,UNIDAD
+56,Shampoo Mascota Misti Tipo 13,KG
+57,Cafe Central Tipo 03,KG
+58,Jugo Central Tipo 15,UNIDAD
+59,Detergente Amazonia Tipo 15,UNIDAD
+60,Toalla Humeda Kantu Tipo 04,UNIDAD
+61,Papas Norte Tipo 07,KG
+62,Sardina Norte Tipo 12,UNIDAD
+63,Marcador Norte Tipo 24,UNIDAD
+64,Snack Canino Pacifico Tipo 17,LITRO
+65,Harina Inti Tipo 23,KG
+66,Jugo Sol Tipo 11,UNIDAD
+67,Detergente Central Tipo 02,LITRO
+68,Pasta Dental Andes Tipo 15,UNIDAD
+69,Barra Energetica Central Tipo 09,KG
+70,Leche Evaporada Misti Tipo 05,UNIDAD
+71,Cuaderno Pacifico Tipo 10,UNIDAD
+72,Alimento Perro Norte Tipo 13,LITRO
+73,Cafe Andes Tipo 21,UNIDAD
+74,Gaseosa Kantu Tipo 24,UNIDAD
+75,Limpiavidrios Amazonia Tipo 16,LITRO
+76,Alcohol Gel Valle Tipo 10,UNIDAD
+77,Chocolate Sierra Tipo 05,KG
+78,Maiz Dulce Sierra Tipo 17,UNIDAD
+79,Folder Amazonia Tipo 14,UNIDAD
+80,Alimento Perro Valle Tipo 10,LITRO
+81,Fideo Andes Tipo 15,UNIDAD
+82,Te Sol Tipo 01,LITRO
+83,Detergente Sol Tipo 07,LITRO
+84,Alcohol Gel Inti Tipo 04,UNIDAD
+85,Barra Energetica Sol Tipo 23,UNIDAD
+86,Maiz Dulce Sierra Tipo 19,UNIDAD
+87,Papel A4 Valle Tipo 01,UNIDAD
+88,Alimento Gato Pacifico Tipo 20,UNIDAD
+89,Arroz Costa Tipo 19,UNIDAD
+90,Jugo Inti Tipo 23,UNIDAD
+91,Desinfectante Norte Tipo 02,KG
+92,Alcohol Gel Costa Tipo 16,LITRO
+93,Chocolate Costa Tipo 03,UNIDAD
+94,Salsa de Tomate Sol Tipo 20,UNIDAD
+95,Papel A4 Sol Tipo 14,UNIDAD
+96,Snack Canino Inti Tipo 16,UNIDAD
+97,Azucar Central Tipo 16,UNIDAD
+98,Bebida Isotonica Central Tipo 07,LITRO
+99,Suavizante Inti Tipo 14,LITRO
+100,Shampoo Sol Tipo 17,LITRO
+101,Caramelo Central Tipo 09,UNIDAD
+102,Maiz Dulce Valle Tipo 15,UNIDAD
+103,Lapicero Central Tipo 21,UNIDAD
+104,Shampoo Mascota Costa Tipo 12,LITRO
+105,Harina Misti Tipo 10,KG
+106,Te Inti Tipo 11,LITRO
+107,Suavizante Pacifico Tipo 22,KG
+108,Jabon Pacifico Tipo 20,UNIDAD
+109,Chocolate Valle Tipo 04,UNIDAD
+110,Sardina Amazonia Tipo 23,UNIDAD
+111,Cuaderno Sierra Tipo 21,UNIDAD
+112,Shampoo Mascota Andes Tipo 12,KG
+113,Frijol Amazonia Tipo 06,UNIDAD
+114,Jugo Pacifico Tipo 21,LITRO
+115,Suavizante Pacifico Tipo 05,LITRO
+116,Pasta Dental Misti Tipo 02,UNIDAD
+117,Chocolate Norte Tipo 19,UNIDAD
+118,Sardina Amazonia Tipo 17,UNIDAD
+119,Lapicero Sol Tipo 14,UNIDAD
+120,Shampoo Mascota Sol Tipo 03,LITRO
+121,Frijol Inti Tipo 20,UNIDAD
+122,Agua Misti Tipo 15,UNIDAD
+123,Detergente Sierra Tipo 01,UNIDAD
+124,Papel Higienico Kantu Tipo 02,LITRO
+125,Caramelo Norte Tipo 16,UNIDAD
+126,Atun Sol Tipo 04,UNIDAD
+127,Papel A4 Andes Tipo 02,UNIDAD
+128,Alimento Gato Valle Tipo 20,LITRO
+129,Fideo Sierra Tipo 11,KG
+130,Jugo Amazonia Tipo 22,UNIDAD
+131,Lejia Misti Tipo 20,LITRO
+132,Alcohol Gel Central Tipo 02,LITRO
+133,Galletas Valle Tipo 01,UNIDAD
+134,Leche Evaporada Inti Tipo 12,UNIDAD
+135,Papel A4 Pacifico Tipo 20,UNIDAD
+136,Alimento Gato Valle Tipo 01,UNIDAD
+137,Azucar Costa Tipo 04,UNIDAD
+138,Jugo Central Tipo 14,LITRO
+139,Suavizante Central Tipo 11,LITRO
+140,Pasta Dental Amazonia Tipo 13,UNIDAD
+141,Caramelo Andes Tipo 18,KG
+142,Sardina Amazonia Tipo 10,UNIDAD
+143,Lapicero Sierra Tipo 03,UNIDAD
+144,Shampoo Mascota Sol Tipo 16,LITRO
+145,Azucar Misti Tipo 23,KG
+146,Bebida Isotonica Valle Tipo 09,LITRO
+147,Detergente Pacifico Tipo 11,KG
+148,Pasta Dental Misti Tipo 11,LITRO
+149,Galletas Valle Tipo 24,KG
+150,Maiz Dulce Amazonia Tipo 09,UNIDAD
+151,Marcador Costa Tipo 17,UNIDAD
+152,Alimento Gato Sol Tipo 13,KG
+153,Sal Pacifico Tipo 11,UNIDAD
+154,Bebida Energetica Inti Tipo 02,UNIDAD
+155,Lejia Sierra Tipo 12,LITRO
+156,Toalla Humeda Amazonia Tipo 24,LITRO
+157,Caramelo Misti Tipo 23,KG
+158,Durazno Norte Tipo 06,UNIDAD
+159,Folder Sol Tipo 04,UNIDAD
+160,Shampoo Mascota Sol Tipo 09,LITRO
+161,Frijol Misti Tipo 23,KG
+162,Te Sol Tipo 05,UNIDAD
+163,Detergente Sol Tipo 01,LITRO
+164,Jabon Pacifico Tipo 25,UNIDAD
+165,Barra Energetica Misti Tipo 11,KG
+166,Salsa de Tomate Sierra Tipo 03,UNIDAD
+167,Papel A4 Inti Tipo 11,UNIDAD
+168,Alimento Perro Central Tipo 23,KG
+169,Arroz Sol Tipo 25,UNIDAD
+170,Bebida Isotonica Pacifico Tipo 07,LITRO
+171,Detergente Sierra Tipo 24,KG
+172,Alcohol Gel Amazonia Tipo 10,UNIDAD
+173,Barra Energetica Inti Tipo 11,UNIDAD
+174,Leche Evaporada Costa Tipo 22,UNIDAD
+175,Lapicero Inti Tipo 02,UNIDAD
+176,Alimento Perro Andes Tipo 24,KG
+177,Fideo Sol Tipo 14,KG
+178,Bebida Isotonica Andes Tipo 25,LITRO
+179,Desinfectante Amazonia Tipo 17,KG
+180,Alcohol Gel Inti Tipo 20,LITRO
+181,Galletas Andes Tipo 14,KG
+182,Maiz Dulce Norte Tipo 25,UNIDAD
+183,Folder Inti Tipo 02,UNIDAD
+184,Snack Canino Pacifico Tipo 14,KG
+185,Azucar Valle Tipo 02,KG
+186,Te Central Tipo 11,UNIDAD
+187,Desinfectante Inti Tipo 10,UNIDAD
+188,Papel Higienico Inti Tipo 02,LITRO
+189,Barra Energetica Costa Tipo 23,UNIDAD
+190,Atun Andes Tipo 06,UNIDAD
+191,Lapicero Andes Tipo 05,UNIDAD
+192,Alimento Perro Costa Tipo 13,UNIDAD
+193,Avena Kantu Tipo 22,UNIDAD
+194,Bebida Isotonica Inti Tipo 08,UNIDAD
+195,Detergente Misti Tipo 04,LITRO
+196,Alcohol Gel Andes Tipo 03,LITRO
+197,Galletas Central Tipo 07,KG
+198,Leche Evaporada Sierra Tipo 25,UNIDAD
+199,Cinta Adhesiva Kantu Tipo 15,UNIDAD
+200,Alimento Gato Pacifico Tipo 09,LITRO
+201,Fideo Costa Tipo 02,UNIDAD
+202,Agua Norte Tipo 01,LITRO
+203,Detergente Costa Tipo 25,KG
+204,Shampoo Norte Tipo 16,UNIDAD
+205,Caramelo Costa Tipo 09,KG
+206,Atun Kantu Tipo 17,UNIDAD
+207,Cinta Adhesiva Valle Tipo 20,UNIDAD
+208,Alimento Perro Valle Tipo 22,LITRO
+209,Cafe Pacifico Tipo 23,KG
+210,Bebida Isotonica Misti Tipo 21,UNIDAD
+211,Suavizante Sierra Tipo 08,LITRO
+212,Shampoo Sierra Tipo 13,LITRO
+213,Barra Energetica Andes Tipo 21,UNIDAD
+214,Salsa de Tomate Kantu Tipo 22,UNIDAD
+215,Lapicero Sierra Tipo 16,UNIDAD
+216,Alimento Gato Inti Tipo 24,UNIDAD
+217,Cafe Sierra Tipo 18,KG
+218,Agua Amazonia Tipo 13,LITRO
+219,Detergente Norte Tipo 08,UNIDAD
+220,Papel Higienico Costa Tipo 25,LITRO
+221,Caramelo Inti Tipo 25,UNIDAD
+222,Durazno Norte Tipo 14,UNIDAD
+223,Folder Costa Tipo 16,UNIDAD
+224,Snack Canino Pacifico Tipo 17,UNIDAD
+225,Fideo Central Tipo 24,UNIDAD
+226,Gaseosa Costa Tipo 09,LITRO
+227,Jabon Liquido Central Tipo 22,UNIDAD
+228,Toalla Humeda Amazonia Tipo 25,LITRO
+229,Chocolate Costa Tipo 07,UNIDAD
+230,Durazno Misti Tipo 01,UNIDAD
+231,Marcador Misti Tipo 13,UNIDAD
+232,Alimento Perro Sierra Tipo 10,UNIDAD
+233,Azucar Misti Tipo 12,UNIDAD
+234,Bebida Energetica Kantu Tipo 10,UNIDAD
+235,Desinfectante Misti Tipo 24,KG
+236,Pasta Dental Valle Tipo 06,UNIDAD
+237,Caramelo Costa Tipo 11,UNIDAD
+238,Salsa de Tomate Sol Tipo 24,UNIDAD
+239,Cinta Adhesiva Misti Tipo 18,UNIDAD
+240,Snack Canino Costa Tipo 07,KG
+241,Quinua Central Tipo 23,KG
+242,Agua Pacifico Tipo 20,LITRO
+243,Jabon Liquido Sierra Tipo 13,LITRO
+244,Jabon Inti Tipo 11,LITRO
+245,Chocolate Kantu Tipo 11,UNIDAD
+246,Durazno Amazonia Tipo 12,UNIDAD
+247,Lapicero Inti Tipo 03,UNIDAD
+248,Snack Canino Pacifico Tipo 24,LITRO
+249,Frijol Norte Tipo 02,UNIDAD
+250,Bebida Isotonica Amazonia Tipo 15,LITRO
+251,Limpiavidrios Amazonia Tipo 24,KG
+252,Jabon Inti Tipo 10,UNIDAD
+253,Galletas Inti Tipo 01,UNIDAD
+254,Sardina Andes Tipo 09,UNIDAD
+255,Marcador Sierra Tipo 05,UNIDAD
+256,Arena Gato Misti Tipo 23,KG
+257,Avena Sol Tipo 13,KG
+258,Jugo Central Tipo 01,UNIDAD
+259,Lejia Sierra Tipo 03,UNIDAD
+260,Papel Higienico Costa Tipo 08,UNIDAD
+261,Galletas Andes Tipo 04,UNIDAD
+262,Maiz Dulce Inti Tipo 14,UNIDAD
+263,Cinta Adhesiva Central Tipo 25,UNIDAD
+264,Arena Gato Kantu Tipo 02,LITRO
+265,Sal Inti Tipo 22,KG
+266,Gaseosa Costa Tipo 16,UNIDAD
+267,Desinfectante Costa Tipo 11,KG
+268,Alcohol Gel Pacifico Tipo 05,LITRO
+269,Caramelo Norte Tipo 08,UNIDAD
+270,Durazno Sierra Tipo 15,UNIDAD
+271,Cuaderno Misti Tipo 13,UNIDAD
+272,Alimento Perro Valle Tipo 22,KG
+273,Harina Misti Tipo 08,UNIDAD
+274,Bebida Energetica Kantu Tipo 21,UNIDAD
+275,Desinfectante Valle Tipo 09,KG
+276,Alcohol Gel Amazonia Tipo 25,LITRO
+277,Cereal Sol Tipo 15,UNIDAD
+278,Atun Costa Tipo 04,UNIDAD
+279,Cinta Adhesiva Valle Tipo 09,UNIDAD
+280,Snack Canino Central Tipo 10,KG
+281,Avena Valle Tipo 05,UNIDAD
+282,Bebida Isotonica Central Tipo 06,UNIDAD
+283,Lejia Misti Tipo 21,KG
+284,Papel Higienico Valle Tipo 01,UNIDAD
+285,Papas Kantu Tipo 02,KG
+286,Maiz Dulce Andes Tipo 12,UNIDAD
+287,Papel A4 Sierra Tipo 11,UNIDAD
+288,Snack Canino Central Tipo 05,UNIDAD
+289,Lenteja Amazonia Tipo 13,KG
+290,Jugo Kantu Tipo 23,LITRO
+291,Desinfectante Sierra Tipo 02,KG
+292,Toalla Humeda Pacifico Tipo 03,LITRO
+293,Cereal Amazonia Tipo 12,KG
+294,Maiz Dulce Costa Tipo 20,UNIDAD
+295,Papel A4 Amazonia Tipo 17,UNIDAD
+296,Snack Canino Inti Tipo 25,LITRO
+297,Frijol Norte Tipo 21,UNIDAD
+298,Bebida Energetica Valle Tipo 12,UNIDAD
+299,Desinfectante Sol Tipo 07,UNIDAD
+300,Shampoo Costa Tipo 14,LITRO
+301,Caramelo Sierra Tipo 08,KG
+302,Durazno Sierra Tipo 25,UNIDAD
+303,Papel A4 Central Tipo 19,UNIDAD
+304,Snack Canino Valle Tipo 08,LITRO
+305,Harina Sierra Tipo 16,KG
+306,Te Costa Tipo 05,UNIDAD
+307,Detergente Misti Tipo 08,KG
+308,Shampoo Norte Tipo 03,LITRO
+309,Caramelo Inti Tipo 10,UNIDAD
+310,Atun Amazonia Tipo 16,UNIDAD
+311,Folder Sol Tipo 19,UNIDAD
+312,Alimento Perro Misti Tipo 01,KG
+313,Frijol Andes Tipo 18,KG
+314,Bebida Energetica Amazonia Tipo 15,UNIDAD
+315,Desinfectante Central Tipo 10,UNIDAD
+316,Jabon Misti Tipo 01,UNIDAD
+317,Caramelo Costa Tipo 01,KG
+318,Leche Evaporada Pacifico Tipo 04,UNIDAD
+319,Cinta Adhesiva Sierra Tipo 04,UNIDAD
+320,Shampoo Mascota Costa Tipo 14,KG
+321,Frijol Amazonia Tipo 05,UNIDAD
+322,Agua Kantu Tipo 15,UNIDAD
+323,Limpiavidrios Sierra Tipo 22,KG
+324,Shampoo Valle Tipo 05,UNIDAD
+325,Barra Energetica Sol Tipo 08,KG
+326,Salsa de Tomate Valle Tipo 05,UNIDAD
+327,Papel A4 Andes Tipo 14,UNIDAD
+328,Alimento Perro Andes Tipo 24,UNIDAD
+329,Harina Inti Tipo 03,UNIDAD
+330,Te Kantu Tipo 08,LITRO
+331,Jabon Liquido Kantu Tipo 09,LITRO
+332,Jabon Sol Tipo 14,LITRO
+333,Cereal Sierra Tipo 20,KG
+334,Leche Evaporada Kantu Tipo 09,UNIDAD
+335,Papel A4 Costa Tipo 19,UNIDAD
+336,Snack Canino Andes Tipo 04,LITRO
+337,Sal Amazonia Tipo 21,KG
+338,Agua Central Tipo 16,LITRO
+339,Desinfectante Sol Tipo 04,UNIDAD
+340,Toalla Humeda Pacifico Tipo 24,UNIDAD
+341,Papas Misti Tipo 10,UNIDAD
+342,Leche Evaporada Kantu Tipo 22,UNIDAD
+343,Cuaderno Inti Tipo 17,UNIDAD
+344,Arena Gato Central Tipo 21,KG
+345,Harina Norte Tipo 10,KG
+346,Te Pacifico Tipo 07,LITRO
+347,Lejia Sierra Tipo 06,UNIDAD
+348,Papel Higienico Inti Tipo 07,LITRO
+349,Galletas Andes Tipo 16,UNIDAD
+350,Salsa de Tomate Andes Tipo 03,UNIDAD
+351,Papel A4 Kantu Tipo 04,UNIDAD
+352,Alimento Gato Inti Tipo 15,UNIDAD
+353,Fideo Pacifico Tipo 17,KG
+354,Agua Pacifico Tipo 03,LITRO
+355,Suavizante Kantu Tipo 04,KG
+356,Pasta Dental Pacifico Tipo 09,UNIDAD
+357,Barra Energetica Sol Tipo 25,UNIDAD
+358,Maiz Dulce Norte Tipo 23,UNIDAD
+359,Cuaderno Central Tipo 22,UNIDAD
+360,Shampoo Mascota Sol Tipo 13,KG
+361,Cafe Kantu Tipo 07,UNIDAD
+362,Bebida Energetica Kantu Tipo 15,UNIDAD
+363,Desinfectante Valle Tipo 12,UNIDAD
+364,Shampoo Costa Tipo 04,UNIDAD
+365,Galletas Misti Tipo 08,KG
+366,Leche Evaporada Andes Tipo 20,UNIDAD
+367,Marcador Pacifico Tipo 17,UNIDAD
+368,Shampoo Mascota Kantu Tipo 05,KG
+369,Sal Norte Tipo 06,UNIDAD
+370,Agua Central Tipo 18,UNIDAD
+371,Jabon Liquido Central Tipo 22,KG
+372,Alcohol Gel Pacifico Tipo 22,UNIDAD
+373,Papas Sierra Tipo 02,KG
+374,Durazno Inti Tipo 01,UNIDAD
+375,Marcador Valle Tipo 24,UNIDAD
+376,Alimento Gato Costa Tipo 24,LITRO
+377,Sal Central Tipo 06,KG
+378,Gaseosa Amazonia Tipo 15,UNIDAD
+379,Desinfectante Valle Tipo 15,LITRO
+380,Shampoo Costa Tipo 05,LITRO
+381,Caramelo Norte Tipo 17,UNIDAD
+382,Durazno Kantu Tipo 02,UNIDAD
+383,Lapicero Norte Tipo 19,UNIDAD
+384,Alimento Gato Amazonia Tipo 23,LITRO
+385,Lenteja Sierra Tipo 15,KG
+386,Agua Sierra Tipo 22,UNIDAD
+387,Jabon Liquido Amazonia Tipo 12,LITRO
+388,Jabon Misti Tipo 04,LITRO
+389,Chocolate Norte Tipo 03,UNIDAD
+390,Sardina Andes Tipo 08,UNIDAD
+391,Cuaderno Pacifico Tipo 12,UNIDAD
+392,Alimento Gato Misti Tipo 13,KG
+393,Arroz Pacifico Tipo 04,UNIDAD
+394,Bebida Isotonica Valle Tipo 16,UNIDAD
+395,Lejia Inti Tipo 25,UNIDAD
+396,Jabon Sierra Tipo 24,UNIDAD
+397,Barra Energetica Sol Tipo 24,UNIDAD
+398,Salsa de Tomate Costa Tipo 11,UNIDAD
+399,Folder Pacifico Tipo 20,UNIDAD
+400,Alimento Perro Inti Tipo 15,KG
+401,Avena Norte Tipo 25,KG
+402,Agua Misti Tipo 07,UNIDAD
+403,Jabon Liquido Valle Tipo 25,UNIDAD
+404,Jabon Valle Tipo 18,LITRO
+405,Galletas Pacifico Tipo 09,KG
+406,Leche Evaporada Valle Tipo 06,UNIDAD
+407,Papel A4 Inti Tipo 06,UNIDAD
+408,Snack Canino Pacifico Tipo 07,LITRO
+409,Lenteja Andes Tipo 22,UNIDAD
+410,Agua Kantu Tipo 10,UNIDAD
+411,Limpiavidrios Kantu Tipo 03,LITRO
+412,Jabon Sol Tipo 14,LITRO
+413,Caramelo Kantu Tipo 25,KG
+414,Atun Andes Tipo 22,UNIDAD
+415,Folder Misti Tipo 24,UNIDAD
+416,Alimento Gato Sierra Tipo 08,LITRO
+417,Avena Misti Tipo 07,UNIDAD
+418,Jugo Misti Tipo 13,LITRO
+419,Detergente Norte Tipo 07,UNIDAD
+420,Alcohol Gel Inti Tipo 05,LITRO
+421,Papas Sierra Tipo 01,KG
+422,Maiz Dulce Sol Tipo 19,UNIDAD
+423,Cinta Adhesiva Norte Tipo 08,UNIDAD
+424,Alimento Perro Amazonia Tipo 01,LITRO
+425,Frijol Costa Tipo 24,KG
+426,Bebida Isotonica Andes Tipo 18,LITRO
+427,Jabon Liquido Inti Tipo 09,LITRO
+428,Alcohol Gel Inti Tipo 03,UNIDAD
+429,Caramelo Sol Tipo 02,UNIDAD
+430,Atun Sierra Tipo 11,UNIDAD
+431,Papel A4 Sierra Tipo 22,UNIDAD
+432,Alimento Gato Sierra Tipo 15,UNIDAD
+433,Frijol Misti Tipo 18,UNIDAD
+434,Jugo Inti Tipo 19,LITRO
+435,Suavizante Amazonia Tipo 12,UNIDAD
+436,Toalla Humeda Valle Tipo 24,LITRO
+437,Papas Costa Tipo 08,KG
+438,Sardina Inti Tipo 24,UNIDAD
+439,Cinta Adhesiva Inti Tipo 15,UNIDAD
+440,Arena Gato Valle Tipo 18,UNIDAD
+441,Lenteja Amazonia Tipo 13,UNIDAD
+442,Te Sol Tipo 11,UNIDAD
+443,Detergente Costa Tipo 21,KG
+444,Shampoo Sierra Tipo 22,UNIDAD
+445,Papas Costa Tipo 01,KG
+446,Leche Evaporada Central Tipo 04,UNIDAD
+447,Lapicero Central Tipo 06,UNIDAD
+448,Alimento Perro Sierra Tipo 21,LITRO
+449,Harina Central Tipo 24,KG
+450,Te Norte Tipo 09,LITRO
+451,Lejia Sierra Tipo 11,KG
+452,Pasta Dental Central Tipo 04,UNIDAD
+453,Caramelo Costa Tipo 08,UNIDAD
+454,Sardina Norte Tipo 08,UNIDAD
+455,Marcador Costa Tipo 22,UNIDAD
+456,Snack Canino Central Tipo 25,LITRO
+457,Harina Valle Tipo 17,UNIDAD
+458,Te Inti Tipo 06,LITRO
+459,Limpiavidrios Misti Tipo 17,KG
+460,Shampoo Pacifico Tipo 20,LITRO
+461,Papas Pacifico Tipo 13,KG
+462,Maiz Dulce Kantu Tipo 17,UNIDAD
+463,Folder Pacifico Tipo 17,UNIDAD
+464,Alimento Perro Amazonia Tipo 10,UNIDAD
+465,Harina Misti Tipo 14,KG
+466,Bebida Isotonica Kantu Tipo 08,LITRO
+467,Limpiavidrios Amazonia Tipo 16,LITRO
+468,Jabon Misti Tipo 07,UNIDAD
+469,Caramelo Norte Tipo 13,UNIDAD
+470,Atun Inti Tipo 06,UNIDAD
+471,Cinta Adhesiva Valle Tipo 19,UNIDAD
+472,Alimento Gato Sierra Tipo 21,KG
+473,Avena Misti Tipo 16,UNIDAD
+474,Jugo Andes Tipo 23,LITRO
+475,Lejia Inti Tipo 24,LITRO
+476,Shampoo Costa Tipo 13,UNIDAD
+477,Papas Amazonia Tipo 01,KG
+478,Salsa de Tomate Inti Tipo 03,UNIDAD
+479,Papel A4 Central Tipo 23,UNIDAD
+480,Alimento Gato Amazonia Tipo 01,LITRO
+481,Cafe Misti Tipo 24,UNIDAD
+482,Te Andes Tipo 04,UNIDAD
+483,Desinfectante Amazonia Tipo 12,UNIDAD
+484,Alcohol Gel Amazonia Tipo 10,LITRO
+485,Caramelo Sierra Tipo 18,UNIDAD
+486,Leche Evaporada Amazonia Tipo 21,UNIDAD
+487,Lapicero Norte Tipo 19,UNIDAD
+488,Arena Gato Misti Tipo 22,UNIDAD
+489,Harina Sol Tipo 20,KG
+490,Jugo Sierra Tipo 09,LITRO
+491,Desinfectante Amazonia Tipo 10,LITRO
+492,Pasta Dental Sol Tipo 06,LITRO
+493,Galletas Misti Tipo 08,UNIDAD
+494,Leche Evaporada Costa Tipo 12,UNIDAD
+495,Cinta Adhesiva Amazonia Tipo 14,UNIDAD
+496,Snack Canino Sol Tipo 01,UNIDAD
+497,Harina Misti Tipo 02,UNIDAD
+498,Jugo Misti Tipo 13,UNIDAD
+499,Lejia Sol Tipo 01,UNIDAD
+500,Alcohol Gel Andes Tipo 10,UNIDAD
+501,Cereal Andes Tipo 09,UNIDAD
+502,Salsa de Tomate Sol Tipo 05,UNIDAD
+503,Lapicero Sol Tipo 05,UNIDAD
+504,Alimento Perro Andes Tipo 16,UNIDAD
+505,Harina Costa Tipo 17,UNIDAD
+506,Gaseosa Sierra Tipo 08,UNIDAD
+507,Detergente Norte Tipo 19,UNIDAD
+508,Shampoo Costa Tipo 08,LITRO
+509,Cereal Pacifico Tipo 06,KG
+510,Sardina Kantu Tipo 23,UNIDAD
+511,Folder Pacifico Tipo 18,UNIDAD
+512,Alimento Gato Amazonia Tipo 05,LITRO
+513,Cafe Kantu Tipo 02,UNIDAD
+514,Jugo Andes Tipo 13,UNIDAD
+515,Jabon Liquido Sierra Tipo 12,UNIDAD
+516,Papel Higienico Andes Tipo 12,UNIDAD
+517,Papas Andes Tipo 01,UNIDAD
+518,Sardina Costa Tipo 24,UNIDAD
+519,Lapicero Costa Tipo 14,UNIDAD
+520,Snack Canino Norte Tipo 14,KG
+521,Harina Costa Tipo 04,UNIDAD
+522,Bebida Isotonica Amazonia Tipo 24,UNIDAD
+523,Limpiavidrios Sierra Tipo 03,LITRO
+524,Toalla Humeda Costa Tipo 12,LITRO
+525,Papas Valle Tipo 17,UNIDAD
+526,Maiz Dulce Sierra Tipo 01,UNIDAD
+527,Cinta Adhesiva Costa Tipo 09,UNIDAD
+528,Arena Gato Norte Tipo 03,LITRO
+529,Quinua Inti Tipo 15,UNIDAD
+530,Te Norte Tipo 06,UNIDAD
+531,Lejia Kantu Tipo 11,KG
+532,Toalla Humeda Valle Tipo 15,UNIDAD
+533,Barra Energetica Pacifico Tipo 01,UNIDAD
+534,Durazno Central Tipo 04,UNIDAD
+535,Papel A4 Sierra Tipo 20,UNIDAD
+536,Alimento Gato Misti Tipo 24,LITRO
+537,Azucar Misti Tipo 24,KG
+538,Te Norte Tipo 23,UNIDAD
+539,Detergente Inti Tipo 15,LITRO
+540,Jabon Central Tipo 07,UNIDAD
+541,Cereal Costa Tipo 03,UNIDAD
+542,Leche Evaporada Pacifico Tipo 07,UNIDAD
+543,Cinta Adhesiva Misti Tipo 12,UNIDAD
+544,Snack Canino Sierra Tipo 02,LITRO
+545,Harina Norte Tipo 22,KG
+546,Bebida Energetica Norte Tipo 22,UNIDAD
+547,Desinfectante Inti Tipo 25,KG
+548,Pasta Dental Andes Tipo 16,UNIDAD
+549,Chocolate Central Tipo 08,KG
+550,Sardina Andes Tipo 20,UNIDAD
+551,Folder Misti Tipo 20,UNIDAD
+552,Arena Gato Amazonia Tipo 09,UNIDAD
+553,Lenteja Sierra Tipo 07,KG
+554,Jugo Costa Tipo 22,UNIDAD
+555,Suavizante Sol Tipo 01,UNIDAD
+556,Papel Higienico Pacifico Tipo 21,LITRO
+557,Chocolate Inti Tipo 19,UNIDAD
+558,Durazno Andes Tipo 08,UNIDAD
+559,Cuaderno Misti Tipo 07,UNIDAD
+560,Alimento Gato Sol Tipo 02,LITRO
+561,Harina Kantu Tipo 04,UNIDAD
+562,Gaseosa Amazonia Tipo 18,LITRO
+563,Desinfectante Misti Tipo 13,LITRO
+564,Jabon Sierra Tipo 07,LITRO
+565,Caramelo Misti Tipo 13,KG
+566,Salsa de Tomate Inti Tipo 01,UNIDAD
+567,Marcador Norte Tipo 05,UNIDAD
+568,Alimento Perro Valle Tipo 22,KG
+569,Sal Sol Tipo 18,KG
+570,Gaseosa Kantu Tipo 07,LITRO
+571,Suavizante Sol Tipo 06,LITRO
+572,Papel Higienico Inti Tipo 11,LITRO
+573,Papas Andes Tipo 10,UNIDAD
+574,Atun Amazonia Tipo 24,UNIDAD
+575,Cinta Adhesiva Amazonia Tipo 23,UNIDAD
+576,Alimento Gato Inti Tipo 12,KG
+577,Fideo Norte Tipo 14,KG
+578,Agua Norte Tipo 24,LITRO
+579,Detergente Pacifico Tipo 13,KG
+580,Jabon Pacifico Tipo 03,UNIDAD
+581,Chocolate Pacifico Tipo 24,KG
+582,Maiz Dulce Costa Tipo 11,UNIDAD
+583,Lapicero Central Tipo 18,UNIDAD
+584,Shampoo Mascota Amazonia Tipo 06,LITRO
+585,Lenteja Sol Tipo 15,KG
+586,Agua Norte Tipo 10,UNIDAD
+587,Detergente Pacifico Tipo 14,LITRO
+588,Papel Higienico Amazonia Tipo 24,LITRO
+589,Cereal Costa Tipo 20,UNIDAD
+590,Atun Sierra Tipo 13,UNIDAD
+591,Cuaderno Inti Tipo 22,UNIDAD
+592,Shampoo Mascota Pacifico Tipo 22,LITRO
+593,Fideo Amazonia Tipo 12,UNIDAD
+594,Bebida Energetica Sol Tipo 13,LITRO
+595,Desinfectante Misti Tipo 03,LITRO
+596,Pasta Dental Kantu Tipo 03,UNIDAD
+597,Barra Energetica Misti Tipo 04,KG
+598,Sardina Central Tipo 09,UNIDAD
+599,Folder Kantu Tipo 23,UNIDAD
+600,Alimento Perro Kantu Tipo 12,UNIDAD
