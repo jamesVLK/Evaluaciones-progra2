@@ -1,0 +1,214 @@
+P0001,Avena Pacifico Tipo 17,25,A
+P0002,Bebida Isotonica Costa Tipo 24,56,B
+P0003,Jabon Liquido Amazonia Tipo 22,35,L
+P0004,Alcohol Gel Valle Tipo 05,45.99,H
+P0005,Cereal Pacifico Tipo 01,43,S
+P0006,Salsa de Tomate Amazonia Tipo 11,28,C
+P0007,Cuaderno Kantu Tipo 18,26,O
+P0008,Arena Gato Amazonia Tipo 11,43,M
+P0009,Azucar Sierra Tipo 05,66,A
+P0010,Agua Inti Tipo 13,29.5,B
+P0011,Lejia Norte Tipo 15,43,L
+P0012,Papel Higienico Norte Tipo 12,36,H
+P0013,Barra Energetica Costa Tipo 18,48,S
+P0014,Maiz Dulce Andes Tipo 13,4,C
+P0015,Folder Misti Tipo 09,42,O
+P0016,Arena Gato Costa Tipo 03,45,M
+P0017,Sal Central Tipo 03,3,A
+P0018,Gaseosa Sol Tipo 07,64,B
+P0019,Suavizante Central Tipo 11,31.7,L
+P0020,Alcohol Gel Kantu Tipo 13,18,H
+P0021,Cereal Inti Tipo 05,26,S
+P0022,Durazno Central Tipo 01,29,C
+P0023,Marcador Andes Tipo 23,36,O
+P0024,Alimento Perro Sol Tipo 04,3,M
+P0025,Fideo Kantu Tipo 04,24,A
+P0026,Bebida Isotonica Pacifico Tipo 20,35,B
+P0027,Suavizante Costa Tipo 14,16,L
+P0028,Pasta Dental Sol Tipo 07,69.2,H
+P0029,Papas Amazonia Tipo 05,31,S
+P0030,Durazno Sierra Tipo 08,35,C
+P0031,Folder Kantu Tipo 04,49,O
+P0032,Alimento Perro Valle Tipo 21,46,M
+P0033,Quinua Valle Tipo 12,16,A
+P0034,Agua Central Tipo 04,27,B
+P0035,Desinfectante Central Tipo 06,2,L
+P0036,Jabon Norte Tipo 24,20,H
+P0037,Chocolate Kantu Tipo 18,30,S
+P0038,Atun Costa Tipo 16,8,C
+P0039,Marcador Inti Tipo 24,2,O
+P0040,Alimento Gato Central Tipo 13,50,M
+P0041,Lenteja Amazonia Tipo 11,70,A
+P0042,Bebida Isotonica Kantu Tipo 04,32,B
+P0043,Suavizante Sol Tipo 06,37,L
+P0044,Papel Higienico Pacifico Tipo 02,11.9,H
+P0045,Barra Energetica Sol Tipo 11,13,S
+P0046,Sardina Amazonia Tipo 14,32,C
+P0047,Lapicero Valle Tipo 14,60,O
+P0048,Alimento Gato Pacifico Tipo 10,33,M
+P0049,Arroz Costa Tipo 21,43,A
+P0050,Jugo Kantu Tipo 13,7,B
+P0051,Suavizante Valle Tipo 18,21,L
+P0052,Pasta Dental Sol Tipo 21,14,H
+P0053,Caramelo Kantu Tipo 11,12,S
+P0054,Maiz Dulce Amazonia Tipo 24,54,C
+P0055,Lapicero Sierra Tipo 21,56,O
+P0056,Shampoo Mascota Misti Tipo 13,15,M
+P0057,Cafe Central Tipo 03,31,A
+P0058,Jugo Central Tipo 15,9,B
+P0059,Detergente Amazonia Tipo 15,37,L
+P0060,Toalla Humeda Kantu Tipo 04,68.55,H
+P0061,Papas Norte Tipo 07,6,S
+P0062,Sardina Norte Tipo 12,29,C
+P0063,Marcador Norte Tipo 24,27,O
+P0064,Snack Canino Pacifico Tipo 17,3,M
+P0065,Harina Inti Tipo 23,26,A
+P0066,Jugo Sol Tipo 11,57,B
+P0067,Detergente Central Tipo 02,47,L
+P0068,Pasta Dental Andes Tipo 15,10,H
+P0069,Barra Energetica Central Tipo 09,21,S
+P0070,Leche Evaporada Misti Tipo 05,28,C
+P0071,Cuaderno Pacifico Tipo 10,6,O
+P0072,Alimento Perro Norte Tipo 13,32,M
+P0073,Cafe Andes Tipo 21,24,A
+P0074,Gaseosa Kantu Tipo 24,43,B
+P0075,Limpiavidrios Amazonia Tipo 16,52,L
+P0076,Alcohol Gel Valle Tipo 10,54,H
+P0077,Chocolate Sierra Tipo 05,13,S
+P0078,Maiz Dulce Sierra Tipo 17,51,C
+P0079,Folder Amazonia Tipo 14,10.11,O
+P0080,Alimento Perro Valle Tipo 10,21,M
+P0081,Fideo Andes Tipo 15,42,A
+P0082,Te Sol Tipo 01,68,B
+P0083,Detergente Sol Tipo 07,36,L
+P0084,Alcohol Gel Inti Tipo 04,54,H
+P0085,Barra Energetica Sol Tipo 23,22,S
+P0086,Maiz Dulce Sierra Tipo 19,17,C
+P0087,Papel A4 Valle Tipo 01,2,O
+P0088,Alimento Gato Pacifico Tipo 20,22,M
+P0089,Arroz Costa Tipo 19,29,A
+P0090,Jugo Inti Tipo 23,34,B
+P0091,Desinfectante Norte Tipo 02,15,L
+P0092,Alcohol Gel Costa Tipo 16,51,H
+P0093,Chocolate Costa Tipo 03,29,S
+P0094,Salsa de Tomate Sol Tipo 20,51,C
+P0095,Papel A4 Sol Tipo 14,50,O
+P0096,Snack Canino Inti Tipo 16,15,M
+P0097,Azucar Central Tipo 16,47,A
+P0098,Bebida Isotonica Central Tipo 07,14,B
+P0099,Suavizante Inti Tipo 14,48,L
+P0100,Shampoo Sol Tipo 17,18,H
+P0101,Caramelo Central Tipo 09,64.52,S
+P0102,Maiz Dulce Valle Tipo 15,40,C
+P0103,Lapicero Central Tipo 21,53,O
+P0104,Shampoo Mascota Costa Tipo 12,36,M
+P0105,Harina Misti Tipo 10,35,A
+P0106,Te Inti Tipo 11,14,B
+P0107,Suavizante Pacifico Tipo 22,38,L
+P0108,Jabon Pacifico Tipo 20,16,H
+P0109,Chocolate Valle Tipo 04,14,S
+P0110,Sardina Amazonia Tipo 23,61,C
+P0111,Cuaderno Sierra Tipo 21,18,O
+P0112,Shampoo Mascota Andes Tipo 12,26,M
+P0113,Frijol Amazonia Tipo 06,72,A
+P0114,Jugo Pacifico Tipo 21,11,B
+P0115,Suavizante Pacifico Tipo 05,14,L
+P0116,Pasta Dental Misti Tipo 02,50,H
+P0117,Chocolate Norte Tipo 19,58,S
+P0118,Sardina Amazonia Tipo 17,13,C
+P0119,Lapicero Sol Tipo 14,27,O
+P0120,Shampoo Mascota Sol Tipo 03,54,M
+P0121,Frijol Inti Tipo 20,28,A
+P0122,Agua Misti Tipo 15,14,B
+P0123,Detergente Sierra Tipo 01,11,L
+P0124,Papel Higienico Kantu Tipo 02,50,H
+P0125,Caramelo Norte Tipo 16,24.4,S
+P0126,Atun Sol Tipo 04,36,C
+P0127,Papel A4 Andes Tipo 02,32,O
+P0128,Alimento Gato Valle Tipo 20,46,M
+P0129,Fideo Sierra Tipo 11,63,A
+P0130,Jugo Amazonia Tipo 22,23,B
+P0131,Lejia Misti Tipo 20,56,L
+P0132,Alcohol Gel Central Tipo 02,38,H
+P0133,Galletas Valle Tipo 01,26,S
+P0134,Leche Evaporada Inti Tipo 12,69,C
+P0135,Papel A4 Pacifico Tipo 20,31,O
+P0136,Alimento Gato Valle Tipo 01,43,M
+P0137,Azucar Costa Tipo 04,52,A
+P0138,Jugo Central Tipo 14,49,B
+P0139,Suavizante Central Tipo 11,43,L
+P0140,Pasta Dental Amazonia Tipo 13,66,H
+P0141,Caramelo Andes Tipo 18,12,S
+P0142,Sardina Amazonia Tipo 10,55,C
+P0143,Lapicero Sierra Tipo 03,48,O
+P0144,Shampoo Mascota Sol Tipo 16,9,M
+P0145,Azucar Misti Tipo 23,17,A
+P0146,Bebida Isotonica Valle Tipo 09,9,B
+P0147,Detergente Pacifico Tipo 11,34,L
+P0148,Pasta Dental Misti Tipo 11,27,H
+P0149,Galletas Valle Tipo 24,66,S
+P0150,Maiz Dulce Amazonia Tipo 09,35,C
+P0151,Marcador Costa Tipo 17,17,O
+P0152,Alimento Gato Sol Tipo 13,16.7,M
+P0153,Sal Pacifico Tipo 11,54,A
+P0154,Bebida Energetica Inti Tipo 02,13,B
+P0155,Lejia Sierra Tipo 12,18,L
+P0156,Toalla Humeda Amazonia Tipo 24,55,H
+P0157,Caramelo Misti Tipo 23,56,S
+P0158,Durazno Norte Tipo 06,22,C
+P0159,Folder Sol Tipo 04,35,O
+P0160,Shampoo Mascota Sol Tipo 09,58,M
+P0161,Frijol Misti Tipo 23,48,A
+P0162,Te Sol Tipo 05,25,B
+P0163,Detergente Sol Tipo 01,32,L
+P0164,Jabon Pacifico Tipo 25,5,H
+P0165,Barra Energetica Misti Tipo 11,25,S
+P0166,Salsa de Tomate Sierra Tipo 03,40,C
+P0167,Papel A4 Inti Tipo 11,42,O
+P0168,Alimento Perro Central Tipo 23,13,M
+P0169,Arroz Sol Tipo 25,47,A
+P0170,Bebida Isotonica Pacifico Tipo 07,39,B
+P0171,Detergente Sierra Tipo 24,30,L
+P0172,Alcohol Gel Amazonia Tipo 10,7.55,H
+P0173,Barra Energetica Inti Tipo 11,50,S
+P0174,Leche Evaporada Costa Tipo 22,51,C
+P0175,Lapicero Inti Tipo 02,7,O
+P0176,Alimento Perro Andes Tipo 24,51,M
+P0177,Fideo Sol Tipo 14,67,A
+P0178,Bebida Isotonica Andes Tipo 25,9,B
+P0179,Desinfectante Amazonia Tipo 17,2,L
+P0180,Alcohol Gel Inti Tipo 20,64,H
+P0181,Galletas Andes Tipo 14,29,S
+P0182,Maiz Dulce Norte Tipo 25,15,C
+P0183,Folder Inti Tipo 02,52,O
+P0184,Snack Canino Pacifico Tipo 14,8,M
+P0185,Azucar Valle Tipo 02,5,A
+P0186,Te Central Tipo 11,30,B
+P0187,Desinfectante Inti Tipo 10,42,L
+P0188,Papel Higienico Inti Tipo 02,60,H
+P0189,Barra Energetica Costa Tipo 23,37,S
+P0190,Atun Andes Tipo 06,26,C
+P0191,Lapicero Andes Tipo 05,62,O
+P0192,Alimento Perro Costa Tipo 13,9,M
+P0193,Avena Kantu Tipo 22,66,A
+P0194,Bebida Isotonica Inti Tipo 08,59.41,B
+P0195,Detergente Misti Tipo 04,56,L
+P0196,Alcohol Gel Andes Tipo 03,26,H
+P0197,Galletas Central Tipo 07,8,S
+P0198,Leche Evaporada Sierra Tipo 25,4,C
+P0199,Cinta Adhesiva Kantu Tipo 15,48,O
+P0200,Alimento Gato Pacifico Tipo 09,35,M
+P0201,Fideo Costa Tipo 02,38,A
+P0202,Agua Norte Tipo 01,12,B
+P0203,Detergente Costa Tipo 25,55,L
+P0204,Shampoo Norte Tipo 16,1,H
+P0205,Caramelo Costa Tipo 09,3,S
+P0206,Atun Kantu Tipo 17,4,C
+P0207,Cinta Adhesiva Valle Tipo 20,12,O
+P0208,Alimento Perro Valle Tipo 22,38,M
+P0209,Cafe Pacifico Tipo 23,53.7,A
+P0210,Bebida Isotonica Misti Tipo 21,56,B
+P0211,Suavizante Sierra Tipo 08,53,L
+P0212,Shampoo Sierra Tipo 13,6,H
+P0213,Barra Energetica Andes Tipo 21,32,S
+P0214,Salsa de Tomate Kantu Tipo 22,20,C
